@@ -97,6 +97,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ```
 ├── ObesityDataset.csv          # Dataset file
 ├── assignment1.ipynb           # Main notebook with all implementations
+├── assignment1.html            # HTML File with output
 └── README.md                   # This file
 ```
 
